@@ -18,6 +18,6 @@ Ce projet à été réalisé par [@siham](https://github.com/siham87) et [@wildc
 
 ## **Montage**
 
-![schema : ](alarmfrigo_bb.jpg)
+![schema : ](alarmefrigo_bb.jpg)
 
-![photo: ](photo1.jpg)
+![code: ](alarme_frigo.ino)

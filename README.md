@@ -48,4 +48,4 @@ void loop() {
 }
 ```
 
-![photo: ](.jpg)
+![photo: ](arduinoalarmefrigo.jpg)
